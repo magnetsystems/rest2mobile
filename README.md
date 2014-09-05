@@ -13,7 +13,7 @@ MacOS
 -----
 Run:
 ```
-brew install https://raw.githubusercontent.com/etexier/installer/master/r2m.rb
+brew install https://raw.githubusercontent.com/magnetsystems/r2m/master/r2m.rb
 ```
 
 If you don't have _brew_, go to: http://brew.sh/
