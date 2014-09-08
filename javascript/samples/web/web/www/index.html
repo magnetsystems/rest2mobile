@@ -1,0 +1,40 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+    <title>Javascript SDK Sample Web Application</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+
+<textarea id="textarea" style="width:80%;margin:0 auto;height:100px;margin-top:10%"></textarea>
+
+<script type="text/javascript" src="magnet-sdk.js"></script>
+<script type="text/javascript" src="controllers.js"></script>
+<script type="text/javascript" src="models.js"></script>
+
+<script type="text/javascript">
+    var controller = new MagnetJS.Controllers.RestController();
+
+    controller.googleDistance({
+        origins      : '435 Tasso Street Palo Alto CA',
+        destinations : 'Embarcadero Street San Francisco CA',
+        sensor       : 'false',
+        mode         : 'driving',
+        language     : 'en',
+        units        : 'imperial'
+    }, {
+        success : function(GoogleDistanceResult, details){
+            document.getElementById('textarea').innerHTML = JSON.stringify(GoogleDistanceResult.attributes);
+        },
+        error : function(error, details){
+            console.log(error, details);
+        }
+    });
+
+</script>
+
+</body>
+</html>

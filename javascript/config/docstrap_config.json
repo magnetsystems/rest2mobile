@@ -1,0 +1,25 @@
+{
+	"tags"      : {
+		"allowUnknownTags" : true
+	},
+	"plugins"   : ["plugins/markdown"],
+	"templates" : {
+		"cleverLinks"     : false,
+		"monospaceLinks"  : false,
+		"default"         : {
+			"outputSourceFiles" : false,
+            "outputSourcePath"  : false
+		},
+		"systemName"        : "Magnet Mobile SDK for JavaScript",
+		"footer"            : "",
+		"copyright"         : "",
+		"navType"           : "vertical",
+		"theme"             : "united",
+		"linenums"          : false,
+		"collapseSymbols"   : false
+	},
+	"markdown"  : {
+		"parser"   : "gfm",
+		"hardwrap" : true
+	}
+}
