@@ -1,3 +1,6 @@
 [submodule "cli"]
 	path = cli
 	url = https://github.com/magnetsystems/r2m-cli.git
+[submodule "examples"]
+	path = examples
+	url = https://github.com/magnetsystems/r2m-examples.git
