@@ -13,3 +13,6 @@
 [submodule "plugin-android"]
 	path = plugin-android
 	url = https://github.com/magnetsystems/r2m-plugin-android
+[submodule "plugin-ios"]
+	path = plugin-ios
+	url = https://github.com/magnetsystems/r2m-plugin-ios
