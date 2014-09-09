@@ -9,7 +9,7 @@
 	url = git@github.com:magnetsystems/r2m-sdk-ios.git
 [submodule "javascript"]
 	path = javascript
-	url = https://github.com/magnetsystems/r2m-js-sdk.git
-[submodule "android-plugin"]
-	path = android-plugin
-	url = https://github.com/magnetsystems/r2m-android-plugin
+	url = https://github.com/magnetsystems/r2m-sdk-js.git
+[submodule "plugin-android"]
+	path = plugin-android
+	url = https://github.com/magnetsystems/r2m-plugin-android
