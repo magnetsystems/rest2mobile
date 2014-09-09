@@ -1,5 +1,8 @@
 # Magnet rest2mobile
 
+<img src="http://developer.magnet.com/tmp/img/logo_r2m_main.png"
+ alt="rest2mobile logo" title="rest2mobile" align="right" />
+
 Magnet rest2mobile generates native code for mobile apps from REST-JSON APIs. It turns actual REST requests and responses into source code (Objective-C, Android, and JavaScript) that you can call from your mobile app. The source code automatically handles:
 
 * server connections
