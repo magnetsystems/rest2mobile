@@ -9,7 +9,7 @@ Magnet rest2mobile generates native code for mobile apps from REST-JSON APIs. It
 * marshaling and unmarshaling JSON data
 * JSON data conversion to the correct data types
 
-In your mobile app code, you call generated methods type-safe entities and will receive a response object.
+In your mobile app code, you call the generated methods with type-safe entities and will receive a response object.
 
 ## rest2mobile Plugins
 
