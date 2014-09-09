@@ -13,12 +13,6 @@ In your mobile app code, you call generated methods type-safe entities and will 
 
 To use Magnet rest2mobile, download the rest2mobile plugins for [Android Studio/IntelliJ IDEA](https://github.com/magnetsystems/r2m-plugin-android/) or [XCode](https://github.com/magnetsystems/r2m-plugin-ios/). For JavaScript, you can use the [r2m CLI](https://github.com/magnetsystems/r2m-cli/) to generate the code.
 
-Once you have generate the native code using the plugin or the CLI, make sure you have installed the rest2mobile SDK for your platform before building your app:
-
-* [rest2mobile SDK for Android](https://github.com/magnetsystems/r2m-sdk-android/)
-* [rest2mobile SDK for iOS](https://github.com/magnetsystems/r2m-sdk-ios/)
-* [rest2mobile SDK for JavaScript](https://github.com/magnetsystems/r2m-sdk-js/)
-
 ## Version
 
 1.0.0
