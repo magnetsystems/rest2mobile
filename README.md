@@ -1,6 +1,12 @@
 # Magnet rest2mobile
 
-Magnet rest2mobile turns actual REST URLs and JSON responses into Objective-C, Java, or JavaScript components that you can call from your mobile app. The components are native classes and interfaces that automatically handle server connections and type safety. In your own code, you call methods to set REST parameters and send the REST request. Your app receives a response object that bundles the JSON in objects or primitives.
+Magnet rest2mobile generates native code for mobile apps from REST-JSON APIs. It turns actual REST requests and responses into source code (Objective-C, Android, and JavaScript) that you can call from your mobile app. The source code automatically handles:
+
+* server connections
+* marshaling and unmarshaling JSON data
+* JSON data conversion to the correct data types
+
+In your mobile app code, you call generated methods type-safe entities and will receive a response object.
 
 To use Magnet rest2mobile, download the rest2mobile plugins for [Android Studio/IntelliJ IDEA](https://github.com/magnetsystems/r2m-plugin-android/) or [XCode](https://github.com/magnetsystems/r2m-plugin-ios/). For JavaScript, you can use the [r2m CLI](https://github.com/magnetsystems/r2m-cli/) to generate the code.
 
