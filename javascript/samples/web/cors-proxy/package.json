@@ -1,0 +1,9 @@
+{
+    "name": "magnet-js-sdk-web-sample-proxy",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "http-proxy": "0.10.3",
+        "express": "3.4.0"
+    }
+}
