@@ -4,3 +4,6 @@
 [submodule "examples"]
 	path = examples
 	url = https://github.com/magnetsystems/r2m-examples.git
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/magnetsystems/r2m-js-sdk.git
