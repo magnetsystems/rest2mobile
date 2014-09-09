@@ -11,7 +11,7 @@ https://github.com/magnetsystems/r2m/wiki
 
 Android Studio/IntelliJ IDEA Plugin
 -----------------------------------
-Check release: https://github.com/magnetsystems/r2m/releases/
+Check release: https://github.com/magnetsystems/r2m-android-plugin/releases/
 
 License
 -------
