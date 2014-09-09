@@ -4,3 +4,6 @@
 [submodule "examples"]
 	path = examples
 	url = https://github.com/magnetsystems/r2m-examples.git
+[submodule "r2m-sdk-ios"]
+	path = r2m-sdk-ios
+	url = git@github.com:magnetsystems/r2m-sdk-ios.git
