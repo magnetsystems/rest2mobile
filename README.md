@@ -1,22 +1,24 @@
-REST To Mobile (r2m)
-====================
+# Magnet rest2mobile
 
-Version
--------
+## Version
+
  1.0.0
 
-Documentation
--------------
+## Documentation
+
 https://github.com/magnetsystems/r2m/wiki
 
-Android Studio/IntelliJ IDEA Plugin
------------------------------------
+## rest2mobile plugin for Android Studio/IntelliJ IDEA
+
 Check release: https://github.com/magnetsystems/r2m-android-plugin/releases/
 
-License
--------
+## rest2mobile CLI
+
+https://github.com/magnetsystems/r2m-cli/
+
+## License
 
 Copyright (c) 2014 Magnet Systems, Inc.
 
-Distributed under the apache license version 2.0
+Distributed under the Apache license version 2.0.
 
