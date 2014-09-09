@@ -10,3 +10,6 @@
 [submodule "javascript"]
 	path = javascript
 	url = https://github.com/magnetsystems/r2m-js-sdk.git
+[submodule "android-plugin"]
+	path = android-plugin
+	url = https://github.com/magnetsystems/r2m-android-plugin
