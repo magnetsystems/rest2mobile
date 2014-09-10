@@ -16,3 +16,6 @@
 [submodule "plugin-ios"]
 	path = plugin-ios
 	url = https://github.com/magnetsystems/r2m-plugin-ios
+[submodule "rest2mobile-SDK-for-iOS"]
+	path = rest2mobile-SDK-for-iOS
+	url = git@github.com:magnetsystems/rest2mobile-SDK-for-iOS.git
