@@ -29,8 +29,7 @@ rest2mobile provides plugins for Android Studio/IntelliJ IDEA and Xcode. To down
   alt="rest2mobile plugin Android Studio" align="right" title="rest2mobile Android Studio" width="50%" />
 </p>
 
-<br />
-
+<br>
 
 
 ## rest2mobile CLI
