@@ -31,12 +31,9 @@ The rest2mobile CLI (r2m) generates Android, iOS, and JavaScript code for your m
 
 * [r2m][r2m-cli]
 
-<img src="https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-cli.jpg"
- alt="rest2mobile CLI" title="r2m" align="left" />
-   
+![rest2mobile CLI](https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-cli.jpg)
  
-  
-     
+
 Copyright © 2014 Magnet Systems, Inc. All rights reserved.
 
 <!---
