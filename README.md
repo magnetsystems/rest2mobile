@@ -11,6 +11,8 @@ Magnet rest2mobile generates native code for mobile apps from REST-JSON APIs. It
 
 In your mobile app code, you call the generated methods with type-safe entities and will receive a response object.
 
+For detailed information about Magnet rest2mobile and its use, go to [rest2mobile wiki] [techdoc].
+
 ## rest2mobile Plugins
 
 rest2mobile provides plugins for Android Studio/IntelliJ IDEA and Xcode. To download the plugins:
@@ -18,16 +20,18 @@ rest2mobile provides plugins for Android Studio/IntelliJ IDEA and Xcode. To down
 * [rest2mobile plugin for Android Studio/IntelliJ IDEA][r2m-plugin-android]
 * [rest2mobile plugin for Xcode][r2m-plugin-ios]
 
+<img src="https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-android.jpg"
+ alt="rest2mobile CLI" title="r2m" align="right" height="400" />|<img src="https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-xcode.jpg"
+ alt="rest2mobile CLI" title="r2m" align="left" height="400" />
+
 ## rest2mobile CLI
 
 The rest2mobile CLI (r2m) generates Android, iOS, and JavaScript code for your mobile app to interact with REST APIs. To download r2m:
 
 * [r2m][r2m-cli]
 
-
-## Documentation
-
-For detailed information about Magnet rest2mobile and its use, go to [rest2mobile wiki] [techdoc].
+<img src="https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-cli.jpg"
+ alt="rest2mobile CLI" title="r2m" align="left" />
 
 ## Copyright
 
