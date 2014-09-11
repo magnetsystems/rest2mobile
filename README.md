@@ -21,8 +21,8 @@ rest2mobile provides plugins for Android Studio/IntelliJ IDEA and Xcode. To down
 * [rest2mobile plugin for Xcode][r2m-plugin-ios]
 
 <img src="https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-android.jpg"
- alt="rest2mobile CLI" title="r2m" align="right" height="400" />|<img src="https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-xcode.jpg"
- alt="rest2mobile CLI" title="r2m" align="left" height="400" />
+ alt="rest2mobile plugin Android Stuio" title="rest2mobile Android Studio" align="right" height="400" />|<img src="https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-xcode.jpg"
+ alt="rest2mobile Xcode" title="r2m" align="left" height="400" />
  
   
 ## rest2mobile CLI
@@ -34,7 +34,9 @@ The rest2mobile CLI (r2m) generates Android, iOS, and JavaScript code for your m
 <img src="https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-cli.jpg"
  alt="rest2mobile CLI" title="r2m" align="left" />
    
+ 
   
+     
 Copyright © 2014 Magnet Systems, Inc. All rights reserved.
 
 <!---
