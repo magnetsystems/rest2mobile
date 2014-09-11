@@ -21,7 +21,7 @@ rest2mobile provides plugins for Android Studio/IntelliJ IDEA and Xcode. To down
 * [rest2mobile plugin for Xcode][r2m-plugin-ios]
 
 
-<div style="max-width:100%;">
+<div width="100%">
    <img src="https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-xcode.jpg"
   alt="rest2mobile Xcode" title="r2m" align="left" width="50%" />
  
