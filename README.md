@@ -30,7 +30,7 @@ rest2mobile provides plugins for Android Studio/IntelliJ IDEA and Xcode. To down
 </p>
 
 <br>
-
+#
 
 ## rest2mobile CLI
 
