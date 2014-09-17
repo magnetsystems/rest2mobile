@@ -16,37 +16,18 @@ In your mobile app code, you call the generated methods with type-safe entities 
 rest2mobile provides plugins for Android Studio/IntelliJ IDEA and Xcode that allow you to specify REST requests and JSON responses, and generate platform-specific code, all within the IDE. rest2mobile also has a command-line tool called 
 <code>r2m</code> that can generate iOS, Android, or JavaScript code. All of these tools are available from Github.
 
-## Set Up rest2mobile for Android Studio and IntelliJ IDEA
+## Get rest2mobile for Android Studio and IntelliJ IDEA
 
 Start by downloading the rest2mobile plugin for Android and IntelliJ from the
 [r2m-plugin-android](https://github.com/magnetsystems/r2m-plugin-android) repository. There you can find the latest release, as well as instructions for setting up your IDE to use rest2mobile.
 
-## Set Up rest2mobile for Xcode
+## Get rest2mobile for Xcode
 
 Start by downloading the rest2mobile plugin for Xcode from the [r2m-plugin-ios](https://github.com/magnetsystems/r2m-plugin-ios) repository. There you can find the latest release, as well as instructions for setting up Xcode to use rest2mobile.
 
-## Set Up rest2mobile for the Command Line
+## Get rest2mobile for the Command Line
 
 Start by downloading the <code>r2m</code> command-line tool from the [r2m-cli](https://github.com/magnetsystems/r2m-cli) repository. There you can find the latest release, as well as instructions for installing and using <code>r2m</code>.
-
-<div width="100%">
-   <img src="https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-xcode.jpg"
-  alt="rest2mobile Xcode" title="r2m" width="50%" align="top" />
-  <img src="https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-android.jpg"
-  alt="rest2mobile plugin Android Studio" title="rest2mobile Android Studio" width="50%" align="top" />
-</div>
-
-
-## 
-
-## rest2mobile CLI
-
-The rest2mobile CLI (r2m) generates Android, iOS, and JavaScript code for your mobile app to interact with REST APIs. To download r2m:
-
-* [r2m][r2m-cli]
-
-![rest2mobile CLI](https://github.com/magnetsystems/rest2mobile/blob/master/docimg/r2m-cli.jpg)
- 
 
 Copyright © 2014 Magnet Systems, Inc. All rights reserved.
 
