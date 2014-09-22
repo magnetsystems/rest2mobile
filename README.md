@@ -5,8 +5,8 @@
 Magnet rest2mobile generates native code for mobile apps from REST-JSON APIs. It turns actual REST requests and responses into source code (Objective-C, Android, and JavaScript) that you can call from your mobile app. The source code automatically handles:
 
 * server connections
-* marshaling and unmarshaling JSON data
-* JSON data conversion to the correct data types
+* marshalling and unmarshalling JSON data
+* JSON data conversion into the native object types
 
 In your mobile app code, you call the generated methods with type-safe entities and will receive a response object.
 
@@ -17,25 +17,28 @@ rest2mobile provides plugins for Android Studio/IntelliJ IDEA and Xcode that all
 
 ### Get rest2mobile for Android Studio and IntelliJ IDEA
 
-Start by downloading the rest2mobile plugin for Android and IntelliJ from the
+Build or download the rest2mobile plugin for Android and IntelliJ from the
 [r2m-plugin-android](https://github.com/magnetsystems/r2m-plugin-android) repository. There you can find the latest release, as well as instructions for setting up your IDE to use rest2mobile.
 
 ### Get rest2mobile for Xcode
 
-Start by downloading the rest2mobile plugin for Xcode from the [r2m-plugin-ios](https://github.com/magnetsystems/r2m-plugin-ios) repository. There you can find the latest release, as well as instructions for setting up Xcode to use rest2mobile.
+Build or download the rest2mobile plugin for Xcode from the [r2m-plugin-ios](https://github.com/magnetsystems/r2m-plugin-ios) repository. There you can find the latest release, as well as instructions for setting up Xcode to use rest2mobile.
 
-### Get rest2mobile for the Command Line
+### Get rest2mobile command line 
 
-Start by downloading the <code>r2m</code> command-line tool from the [r2m-cli](https://github.com/magnetsystems/r2m-cli) repository. There you can find the latest release, as well as instructions for installing and using <code>r2m</code>.
+For generating Javascript, iOS or Android Mobile API from your shell.
 
-Copyright © 2014 Magnet Systems, Inc. All rights reserved.
+Build or download the <code>r2m</code> command-line tool from the [r2m-cli](https://github.com/magnetsystems/r2m-cli) repository. There you can find the latest release, as well as instructions for installing and using <code>r2m</code>.
 
-<!---
 ## License
 
 Licensed under the **[Apache License, Version 2.0] [license]** (the "License");
 you may not use this software except in compliance with the License.
--->
+
+## Copyright
+
+Copyright © 2014 Magnet Systems, Inc. All rights reserved.
+
 [website]: http://developer.magnet.com
 [techdoc]: https://github.com/magnetsystems/rest2mobile/wiki
 [r2m-plugin-android]:https://github.com/magnetsystems/r2m-plugin-android/
