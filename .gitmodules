@@ -1,21 +1,28 @@
 [submodule "cli"]
 	path = cli
-	url = https://github.com/magnetsystems/r2m-cli.git
+	url = git@github.com:magnetsystems/r2m-cli.git
+        branch = master
 [submodule "examples"]
 	path = examples
-	url = https://github.com/magnetsystems/r2m-examples.git
+	url = git@github.com:magnetsystems/r2m-examples.git
+        branch = master
 [submodule "javascript"]
 	path = javascript
-	url = https://github.com/magnetsystems/r2m-sdk-js.git
-[submodule "plugin-android"]
-	path = plugin-android
-	url = https://github.com/magnetsystems/r2m-plugin-android
-[submodule "plugin-ios"]
-	path = plugin-ios
-	url = https://github.com/magnetsystems/r2m-plugin-ios
-[submodule "r2m-sdk-ios"]
+	url = git@github.com:magnetsystems/r2m-sdk-js.git
+        branch = master
+[submodule "ios"]
 	path = ios
 	url = git@github.com:magnetsystems/r2m-sdk-ios.git
+        branch = master
 [submodule "android"]
 	path = android
 	url = git@github.com:magnetsystems/r2m-sdk-android.git
+        branch = master
+[submodule "plugin-android"]
+	path = plugin-android
+	url = git@github.com:magnetsystems/r2m-plugin-android.git
+        branch = master
+[submodule "plugin-ios"]
+	path = plugin-ios
+	url = git@github.com:magnetsystems/r2m-plugin-ios.git
+        branch = master
