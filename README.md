@@ -26,6 +26,11 @@ Given REST request/response examples, rest2mobile can infer the entire object mo
 For instance, see how to use the CLI [here](https://github.com/magnetsystems/r2m-cli/blob/master/README.md).
 The plugins make it even easier.
 
+You will need to include the right Magnet Mobile SDK in your project:
+* [rest2mobile Android SDK](https://github.com/magnetsystems/r2m-sdk-android)
+* [rest2mobile iOS SDK](https://github.com/magnetsystems/r2m-sdk-ios)
+* [rest2mobile JS SDK](https://github.com/magnetsystems/r2m-sdk-js)
+
 ### Feedback
 
 We are constantly adding features and welcome feedback. 
