@@ -2,33 +2,34 @@
 <img style="margin:10px" src="http://developer.magnet.com/tmp/img/logo_r2m_main.png"
  alt="rest2mobile logo" title="rest2mobile" align="right" />
 
-Magnet rest2mobile generates native code for mobile apps from REST-JSON APIs. It turns actual REST requests and responses into source code (Objective-C, Android, and JavaScript) that you can call from your mobile app. The source code automatically handles:
+Magnet rest2mobile generates native code for mobile apps from REST APIs. It turns actual REST requests and responses into source code (Objective-C, Android, and JavaScript) that you can call from your mobile app. The source code automatically handles:
 
 * server connections
 * marshalling and unmarshalling JSON data
 * JSON data conversion into the native object types
 
-In your mobile app code, you call the generated methods with type-safe entities and will receive a response object.
 
 ## Get Started
 
-rest2mobile provides plugins for Android Studio/IntelliJ IDEA and Xcode that allow you to specify REST requests and JSON responses, and generate platform-specific code, all within the IDE. rest2mobile also has a command-line tool called 
-<code>r2m</code> that can generate iOS, Android, or JavaScript code. All of these tools are available from Github.
+rest2mobile provide tools that allow you to generate native Mobile API directly from REST queries, within your IDE, or from the command line. All these tools are freely available on the following github repositories:
 
-### Get rest2mobile for Android Studio and IntelliJ IDEA
+* [rest2mobile for Android Studio and IntelliJ IDEA](https://github.com/magnetsystems/r2m-plugin-android)
+* [rest2mobile for XCode](https://github.com/magnetsystems/r2m-plugin-ios)
+* [rest2mobile CLI](https://github.com/magnetsystems/r2m-cli)
+* [samples example for rest2mobile CLI](https://github.com/magnetsystems/r2m-examples)
 
-Build or download the rest2mobile plugin for Android and IntelliJ from the
-[r2m-plugin-android](https://github.com/magnetsystems/r2m-plugin-android) repository. There you can find the latest release, as well as instructions for setting up your IDE to use rest2mobile.
 
-### Get rest2mobile for Xcode
+## How it works
 
-Build or download the rest2mobile plugin for Xcode from the [r2m-plugin-ios](https://github.com/magnetsystems/r2m-plugin-ios) repository. There you can find the latest release, as well as instructions for setting up Xcode to use rest2mobile.
+Given REST request/response examples, rest2mobile can infer the entire object model for your requests and responses. The IDE plugins and CLI just ask you to specify the GET/POST/PUT/DELETE REST requests and responses and automatically generates the method and types required to invoke the REST service from your Mobile App.
 
-### Get rest2mobile command line 
+For instance, see how to use the CLI [here](https://github.com/magnetsystems/r2m-cli/blob/master/README.md)
+The plugins make it even easier
 
-You can generate Javascript, iOS or Android Mobile APIs directly with the <code>r2m</code> CLI.
+### Feedback
 
-Build or download the <code>r2m</code> from the [r2m-cli](https://github.com/magnetsystems/r2m-cli) repository. There you can find the latest release, as well as instructions for building, installing and using <code>r2m</code>.
+We are constantly adding features and welcome feedback. 
+Please, ask questions or file requests [here](https://github.com/magnetsystems/rest2mobile/issues)
 
 ## License
 
