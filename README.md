@@ -23,13 +23,13 @@ rest2mobile provide tools that allow you to generate native Mobile API directly 
 
 Given REST request/response examples, rest2mobile can infer the entire object model for your requests and responses. The IDE plugins and CLI just ask you to specify the GET/POST/PUT/DELETE REST requests and responses and automatically generates the method and types required to invoke the REST service from your Mobile App.
 
-For instance, see how to use the CLI [here](https://github.com/magnetsystems/r2m-cli/blob/master/README.md)
-The plugins make it even easier
+For instance, see how to use the CLI [here](https://github.com/magnetsystems/r2m-cli/blob/master/README.md).
+The plugins make it even easier.
 
 ### Feedback
 
 We are constantly adding features and welcome feedback. 
-Please, ask questions or file requests [here](https://github.com/magnetsystems/rest2mobile/issues)
+Please, ask questions or file requests [here](https://github.com/magnetsystems/rest2mobile/issues).
 
 ## License
 
