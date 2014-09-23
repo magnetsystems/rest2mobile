@@ -26,9 +26,9 @@ Build or download the rest2mobile plugin for Xcode from the [r2m-plugin-ios](htt
 
 ### Get rest2mobile command line 
 
-For generating Javascript, iOS or Android Mobile API from your shell.
+You can generate Javascript, iOS or Android Mobile APIs directly with the <code>r2m</code> CLI.
 
-Build or download the <code>r2m</code> command-line tool from the [r2m-cli](https://github.com/magnetsystems/r2m-cli) repository. There you can find the latest release, as well as instructions for installing and using <code>r2m</code>.
+Build or download the <code>r2m</code> from the [r2m-cli](https://github.com/magnetsystems/r2m-cli) repository. There you can find the latest release, as well as instructions for building, installing and using <code>r2m</code>.
 
 ## License
 
